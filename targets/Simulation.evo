@@ -1,0 +1,24 @@
+[initials_values] 
+1 s 1 00
+
+[events]
+n 1 8 s 1 01
+n 1 13 s 1 02
+n 1 18 s 1 03
+n 1 23 s 1 04
+n 1 28 s 1 03
+n 1 33 s 1 02
+n 1 38 s 1 01
+n 1 43 s 1 00
+n 1 48 s 1 ff
+n 1 53 s 1 fe
+n 1 58 s 1 fd
+n 1 63 s 1 fc
+n 1 68 s 1 0a
+n 1 73 s 1 0b
+n 1 78 s 1 0c
+n 1 83 s 1 0d
+n 1 88 s 1 0e
+n 1 93 s 1 0f
+n 1 98 s 1 10
+n 1 103 s 1 00
